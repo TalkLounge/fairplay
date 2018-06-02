@@ -89,7 +89,9 @@ local function check_fly(name)
   end
   local pos = vector.round(player:getpos())
   local posbevor = pos
-  if not minetest.get_player_privs(name).fly and #minetest.find_nodes_in_area({x = pos.x - 2, y = pos.y - 2, z = pos.z - 2}, {x = pos.x + 2, y = pos.y, z = pos.z + 2}, {"air"}) == 75 then
+  local jump = player:get_physics_override().jump
+  local speed = player:get_physics_override().speed
+  if not minetest.get_player_privs(name).fly and not minetest.get_player_privs(name).fast and #minetest.find_nodes_in_area({x = pos.x - 2*speed, y = pos.y - 2*jump, z = pos.z - 2*speed}, {x = pos.x + 2*speed, y = pos.y, z = pos.z + 2*speed}, {"air"}) == (1+2*jump)*(1+4*speed)*(1+4*speed) then
     if not flytbl[name] then
       flytbl[name] = {}
     end
@@ -143,4 +145,3 @@ minetest.register_globalstep(function(dtime)
       check_fly(name)
     end
 end)
-
