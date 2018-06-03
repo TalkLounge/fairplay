@@ -91,7 +91,7 @@ local function check_fly(name)
   local posbevor = pos
   local jump = player:get_physics_override().jump
   local speed = player:get_physics_override().speed
-  if not minetest.get_player_privs(name).fly and #minetest.find_nodes_in_area({x = pos.x - (2 * speed), y = pos.y - (2 * jump), z = pos.z - (2 * speed)}, {x = pos.x + (2 * speed), y = pos.y, z = pos.z + (2 *speed}, {"air"}) == ((1 + 2) * jump) * ((1 + 4) * speed) * ((1 + 4) * speed) and not ((default and default.player_attached and default.player_attached[name]) or (player_api and player_api.player_attached and player_api.player_attached[name])) then
+  if not minetest.get_player_privs(name).fly and #minetest.find_nodes_in_area({x = pos.x - (2 * speed), y = pos.y - (2 * jump), z = pos.z - (2 * speed)}, {x = pos.x + (2 * speed), y = pos.y, z = pos.z + (2 *speed}, {"air"}) == (1 + 2 * jump) * (1 + 4 * speed) * (1 + 4 * speed) and not ((default and default.player_attached and default.player_attached[name]) or (player_api and player_api.player_attached and player_api.player_attached[name])) then
     if not flytbl[name] then
       flytbl[name] = {}
     end
