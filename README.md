@@ -22,8 +22,8 @@ See: [Other contributors](https://github.com/TalkLounge/fairplay/graphs/contribu
 ## License
 Copyright (C) 2019
 
-As long as the source code & media is used for non-commercial projects and the author(s) are referred, with all credits/data(e.g. nickname, e-mail etc.) given here, you may do whatever you want(e.g. use, modify, publish etc.) with the source code & media.
-Otherwise you are forbidden to do anything with the source code & media.
-If other licenses are integrated, please note them as well.
-The author(s) assume no liability for any damages.
-If you have any questions, please contact the author(s) with the given data.
+As long as the source code & media is used for non-commercial projects and the author(s) are referred, with all credits/data(e.g. nickname, e-mail etc.) given here, you may do whatever you want(e.g. use, modify, publish etc.) with the source code & media.  
+Otherwise you are forbidden to do anything with the source code & media.  
+If other licenses are integrated, please note them as well.  
+The author(s) assume no liability for any damages.  
+If you have any questions, please contact the author(s) with the given data.  
