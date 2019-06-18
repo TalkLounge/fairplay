@@ -1,13 +1,29 @@
-Minetest Mod 'fairplay'
-==================
-Version 1.0
+# fairplay
+A minetest mod that adds anticheat for servers
 
-License of source code:
----------------------------------
-Copyright (C) 2018 TalkLounge <talklounge@yahoo.de> & Arcelmi
+## Version
+1.1
 
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or(at your option) any later version.
+## ToDo
+* Add to fast in water check
+* Ad for creative a higher range
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
+## Credits
+TalkLounge
+E-Mail: talklounge@yahoo.de
+GitHub: [TalkLounge](https://github.com/TalkLounge/ "TalkLounge")
 
-You should have received a copy of the GNU Lesser General Public License along with this program; if not; write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+Arcelmi
+GitHub: [Arcelmi](https://github.com/Arcelmi/ "Arcelmi")
+
+Other contributors
+See: [Other contributors](https://github.com/TalkLounge/fairplay/graphs/contributors "Other contributors")
+
+## License
+Copyright (C) 2019
+
+As long as the source code & media is used for non-commercial projects and the author(s) are referred, with all credits/data(e.g. nickname, e-mail etc.) given here, you may do whatever you want(e.g. use, modify, publish etc.) with the source code & media.
+Otherwise you are forbidden to do anything with the source code & media.
+If other licenses are integrated, please note them as well.
+The author(s) assume no liability for any damages.
+If you have any questions, please contact the author(s) with the given data.
