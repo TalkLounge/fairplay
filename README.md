@@ -1,5 +1,5 @@
 # fairplay
-A minetest mod that adds anticheat for servers
+A minetest mod that adds anticheat to servers
 
 ## Version
 1.1
