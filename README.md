@@ -9,14 +9,14 @@ A minetest mod that adds anticheat to servers
 * Add for creative a higher range
 
 ## Credits
-TalkLounge
-E-Mail: talklounge@yahoo.de
+TalkLounge  
+E-Mail: talklounge@yahoo.de  
 GitHub: [TalkLounge](https://github.com/TalkLounge/ "TalkLounge")
 
-Arcelmi
+Arcelmi  
 GitHub: [Arcelmi](https://github.com/Arcelmi/ "Arcelmi")
 
-Other contributors
+Other contributors  
 See: [Other contributors](https://github.com/TalkLounge/fairplay/graphs/contributors "Other contributors")
 
 ## License
