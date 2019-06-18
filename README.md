@@ -6,7 +6,7 @@ A minetest mod that adds anticheat to servers
 
 ## ToDo
 * Add to fast in water check
-* Ad for creative a higher range
+* Add for creative a higher range
 
 ## Credits
 TalkLounge
