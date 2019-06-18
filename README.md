@@ -26,4 +26,4 @@ As long as the source code & media is used for non-commercial projects and the a
 Otherwise you are forbidden to do anything with the source code & media.  
 If other licenses are integrated, please note them as well.  
 The author(s) assume no liability for any damages.  
-If you have any questions, please contact the author(s) with the given data.  
+If you have any questions, please contact the author(s) with the given credits/data.  
