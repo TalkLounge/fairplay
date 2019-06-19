@@ -2,7 +2,7 @@
 A minetest mod that adds anticheat to servers
 
 ## Version
-1.1
+1.0
 
 ## ToDo
 * Add to fast in water check
