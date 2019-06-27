@@ -11,19 +11,14 @@ A minetest mod that adds anticheat to servers
 ## Credits
 **TalkLounge**  
 E-Mail: talklounge@yahoo.de  
-GitHub: [TalkLounge](https://github.com/TalkLounge/ "TalkLounge")
+GitHub: [TalkLounge](https://github.com/TalkLounge/ "Link to TalkLounge's GitHub")
 
 **Arcelmi**  
-GitHub: [Arcelmi](https://github.com/Arcelmi/ "Arcelmi")
+GitHub: [Arcelmi](https://github.com/Arcelmi/ "Link to Arcelmi's GitHub")
 
 **Other contributors**  
-See: [Other contributors](https://github.com/TalkLounge/fairplay/graphs/contributors "Other contributors")
+See: [Other contributors](https://github.com/TalkLounge/fairplay/graphs/contributors "Link to other contributors")
 
 ## License
-Copyright (C) 2019
+CC BY-NC 3.0 | See [LICENSE.txt](https://github.com/TalkLounge/fairplay/blob/master/LICENSE.txt "Link to LICENSE.txt")
 
-As long as the source code & media is used for non-commercial projects and the author(s) are referred, with all credits/data(e.g. nickname, e-mail etc.) given here, you may do whatever you want(e.g. use, modify, publish etc.) with the source code & media.  
-Otherwise you are forbidden to do anything with the source code & media.  
-If other licenses are integrated, please note them as well.  
-The author(s) assume no liability for any damages.  
-If you have any questions, please contact the author(s) with the given credits/data.  
