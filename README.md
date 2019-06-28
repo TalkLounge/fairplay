@@ -5,7 +5,7 @@ A minetest mod that adds anticheat to servers
 1.0
 
 ## License
-CC BY-NC 3.0 | See [LICENSE.txt](https://github.com/TalkLounge/fairplay/blob/master/LICENSE.txt "Link to LICENSE.txt")
+CC BY-NC 3.0 | See [LICENSE](https://github.com/TalkLounge/fairplay/blob/master/LICENSE.md "Link to LICENSE.md")
 
 ## Credits
 **TalkLounge**  
