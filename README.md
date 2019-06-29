@@ -18,6 +18,9 @@ GitHub: [Arcelmi](https://github.com/Arcelmi/ "Link to Arcelmi's GitHub")
 **Other contributors**  
 See: [Other contributors](https://github.com/TalkLounge/fairplay/graphs/contributors "Link to other contributors")
 
+## Minetest forum post
+View [fairplay](https://forum.minetest.net/viewtopic.php?f=9&t=20206 "Link to fairplay post in the minetest forum")
+
 ## ToDo
 * Add to fast in water check
 * Add for creative a higher range
