@@ -1,5 +1,5 @@
 # fairplay
-A minetest mod that adds anticheat to servers
+[Minetest](https://www.minetest.net/ "Link to minetest.net") mod adding anticheat to serve
 
 ## Version
 1.0
@@ -19,7 +19,7 @@ GitHub: [Arcelmi](https://github.com/Arcelmi/ "Link to Arcelmi's GitHub")
 See: [Other contributors](https://github.com/TalkLounge/fairplay/graphs/contributors "Link to other contributors")
 
 ## Minetest forum post
-View [fairplay](https://forum.minetest.net/viewtopic.php?f=9&t=20206 "Link to fairplay post in the minetest forum")
+View [fairplay](https://forum.minetest.net/viewtopic.php?t=20206 "Link to fairplay post in the minetest forum")
 
 ## ToDo
 * Add to fast in water check
