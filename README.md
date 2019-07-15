@@ -1,8 +1,8 @@
 # fairplay
-[Minetest](https://www.minetest.net/ "Link to minetest.net") mod adding anticheat to serve
+[Minetest](https://www.minetest.net/ "Link to minetest.net") mod adding anticheat to server
 
 ## Version
-1.0
+2.0
 
 ## License
 CC BY-NC 3.0 | See [LICENSE](https://github.com/TalkLounge/fairplay/blob/master/LICENSE.md "Link to LICENSE.md")
@@ -22,6 +22,4 @@ See: [Other contributors](https://github.com/TalkLounge/fairplay/graphs/contribu
 View [fairplay](https://forum.minetest.net/viewtopic.php?t=20206 "Link to fairplay post in the minetest forum")
 
 ## ToDo
-* Add to fast in water check
-* Add for creative a higher range
 
